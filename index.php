@@ -8,6 +8,7 @@
 	<body>
 
 		<p>Valentin</p>
+		<p>Valentin</p>
 		<script type="text/javascript" src="js/main.js"></script>
 	</body>
 </html>
