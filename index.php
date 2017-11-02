@@ -7,7 +7,7 @@
 	</head>
 	<body>
 
-		<p>Valentin</p>
+		<p>Valentine</p>
 		<script type="text/javascript" src="js/main.js"></script>
 	</body>
 </html>
