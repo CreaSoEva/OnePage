@@ -1,0 +1,3 @@
+git status (Historique des fichiers non validés)
+git add . (Ajoute tous les fichiers qui ne sont pas validés)
+git commit -m "ton message" (Ajoute les fichiers a jours)
